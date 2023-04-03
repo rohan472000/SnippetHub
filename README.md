@@ -1,3 +1,5 @@
+###  For this repo, Copyright (c) 2023 Rohan Anand (anand00rohan@gmail.com), rohan472000 on GitHub
+
 # Snippet Hub
 Welcome to Snippet Hub! This repository contains a collection of useful code snippets for various programming languages and tasks. Each snippet is contained in its own file and is accompanied by a brief description of its purpose and usage.
 
