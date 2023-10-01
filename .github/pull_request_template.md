@@ -1,12 +1,9 @@
 <!-- For completed items, change [ ] to [x] -->
 ## Pull Request Description
 
-**Title:** [Add a brief one-line title here]
-
-### Description
 [Provide a concise description of the changes made in this pull request.]
 
-### Related Issue
+### Related/Fixes Issue
 [Reference the related issue or task using its number or link.]
 
 ### Changes Made
@@ -19,6 +16,4 @@
 - [ ] Added snippets/questions_answers/docs
 - [ ] This pull request is all my own work -- I have not plagiarized it.
 - [ ] All filenames are in PascalCase.
-- [ ] All functions and variable names follow Python naming conventions.
-- [ ] All test cases have passed.
-- [ ] All new algorithms have a URL in their comments that points to Wikipedia or other similar explanations.
+- [ ] Snippets have a URL in their comments that points to Wikipedia or other similar explanations.
