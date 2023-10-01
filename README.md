@@ -64,3 +64,10 @@ Please discuss it with us first by creating a new issue.
 
 ## License
 All code snippets in Snippet Hub are licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit, provided that you include the original license and attribution to the original author.
+
+## Contributors 🌟:
+<a href="https://github.com/rohan472000/SnippetHub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rohan472000/SnippetHub" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
